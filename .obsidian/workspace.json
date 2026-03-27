@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "d6abbdd5822e7818",
+    "type": "split",
+    "children": [
+      {
+        "id": "18d6db0a205c3438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e52847afad510398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.NLP算法/3.扩展内容/2.多头注意力优化/1. 多头注意力后续优化路线.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 多头注意力后续优化路线"
+            }
+          },
+          {
+            "id": "7484e3423f530e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.深度学习/3.补充内容/10.正则化方式扩展.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.正则化方式扩展"
+            }
+          },
+          {
+            "id": "f3017ed745d71509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "扩展资料/Latex常用语法总结（查找手册）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Latex常用语法总结（查找手册）"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2eb76416ee1f01e",
+    "type": "split",
+    "children": [
+      {
+        "id": "124046691e923b3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75de783f332303a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "924c4c0ac363d460",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.机器学习阶段内容/1.机器学习/6. 集成学习/2.并行式集成学习.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2.并行式集成学习 的大纲"
+            }
+          },
+          {
+            "id": "e70df4c3c016c7fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "adamw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0cd1f1f7111453b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "a4ecf9db923b4aae",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ae966e5df0c86e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db8781a9fce72451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.NLP算法/1.知识点/2.RNN与其变体/6. Teacher Forcing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Teacher Forcing"
+            }
+          },
+          {
+            "id": "58b55389f0a71a33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3.NLP算法/3.扩展内容/10. 2026主流位置编码.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "10. 2026主流位置编码 的反向链接列表"
+            }
+          },
+          {
+            "id": "5efb7caabd3c62d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3.NLP算法/3.扩展内容/10. 2026主流位置编码.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "10. 2026主流位置编码 的出链列表"
+            }
+          },
+          {
+            "id": "82e5750978d982cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d33752c6acfe71ba",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "3ef59a5feeed4993",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "graph:查看关系图谱": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e52847afad510398",
+  "lastOpenFiles": [
+    "2.深度学习/1.深度学习/2.神经网络基础/8.梯度下降的优化方法.md",
+    "2.深度学习/3.补充内容/10.正则化方式扩展.md",
+    "3.NLP算法/5.项目调整/1.1 调整后.md",
+    "1.机器学习阶段内容/1.机器学习/6. 集成学习/2.并行式集成学习.md",
+    "3.NLP算法/1.知识点/4.模型压缩/4. 知识蒸馏（Knowledge Distillation）.md",
+    "3.NLP算法/3.扩展内容/1.基础扩展/12. deepseek模型.md",
+    "2.深度学习/1.深度学习/2.神经网络基础/10.正则化.md",
+    "3.NLP算法/3.扩展内容/1.基础扩展/11. 大模型.md",
+    "3.NLP算法/2.面试题/NLP基础面试题.md",
+    "2.深度学习/1.深度学习/2.神经网络基础/3.参数初始化.md",
+    "扩展资料/Latex常用语法总结（查找手册）.md",
+    "3.NLP算法/3.扩展内容/5. 层归一化优化/1. 层归一化（LayerNorm）优化方案.md",
+    "2.深度学习/1.深度学习/2.神经网络基础/6.网络优化方法.md",
+    "2.深度学习/1.深度学习/2.神经网络基础/5.神经网络的损失函数.md",
+    "1.机器学习阶段内容/3.补充内容/5.朴素贝叶斯.md",
+    "2.深度学习/1.深度学习/2.神经网络基础/9.学习率衰减方法.md",
+    "3.NLP算法/5.项目调整/1. 项目简介.md",
+    "2.深度学习/1.深度学习/2.神经网络基础/7.反向传播.md",
+    "2.深度学习/1.深度学习/2.神经网络基础/4.神经网络构建.md",
+    "2.深度学习/1.深度学习/2.神经网络基础/2.激活函数分类.md",
+    "2.深度学习/3.补充内容/1.NLP算法.md",
+    "2.深度学习/1.深度学习/1.深度学习基础/1.深度学习概念基础.md",
+    "3.NLP算法/1.知识点/4.模型压缩/3. 模型量化（Quantization）.md",
+    "png/Pasted image 20260326015743.png",
+    "png/Pasted image 20260326014728.png",
+    "png/Pasted image 20260326004858.png",
+    "png/Pasted image 20260326004547.png",
+    "png/Pasted image 20260326004526.png",
+    "png/Pasted image 20260325234337.png",
+    "png/Pasted image 20260326004522.png",
+    "Pasted image 20260326003338.png.md",
+    "png/Pasted image 20260326003338.png",
+    "3.NLP算法/1.知识点/4.模型压缩/2. 模型减枝（Pruning）.md",
+    "3.NLP算法/1.知识点/4.模型压缩/1. 模型压缩介绍.md",
+    "3.NLP算法/1.知识点/4.模型压缩",
+    "3.NLP算法/3.扩展内容/未命名",
+    "3.NLP算法/1.知识点/3.transformer",
+    "4.强化学习/3.扩展资料",
+    "4.强化学习/1.知识点",
+    "4.强化学习",
+    "png/Pasted image 20260208174556.png",
+    "png/Pasted image 20260208174721.png",
+    "3.NLP算法/5.项目调整",
+    "3.NLP算法/3.扩展内容/5. 层归一化优化",
+    "3.NLP算法/3.扩展内容/4. 残差连接优化",
+    "3.NLP算法/3.扩展内容/3. 前馈神经网络优化",
+    "2.深度学习/3.补充内容/未命名.canvas"
+  ]
+}
