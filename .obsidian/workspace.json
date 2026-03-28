@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e52847afad510398",
+            "id": "5d77f3dcb454b686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.NLP算法/3.扩展内容/2.多头注意力优化/3. GQA 分组查询注意力.md",
+                "file": "5. 大模型/2. 面试题目/202603028.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. GQA 分组查询注意力"
-            }
-          },
-          {
-            "id": "7484e3423f530e9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.深度学习/3.补充内容/10.正则化方式扩展.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.正则化方式扩展"
+              "title": "202603028"
             }
           },
           {
@@ -41,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "扩展资料/Latex常用语法总结（查找手册）.md",
+                "file": "2.深度学习/1.深度学习/2.神经网络基础/2.激活函数分类.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latex常用语法总结（查找手册）"
+              "title": "2.激活函数分类"
             }
           }
         ]
@@ -96,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adamw",
+                "query": "relu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +103,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -246,54 +233,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e52847afad510398",
+  "active": "5d77f3dcb454b686",
   "lastOpenFiles": [
-    "3.NLP算法/3.扩展内容/2.多头注意力优化/1. 多头注意力后续优化路线.md",
-    "3.NLP算法/3.扩展内容/2.多头注意力优化/3. GQA 分组查询注意力.md",
-    "3.NLP算法/3.扩展内容/2.多头注意力优化/2. MOE模型.md",
-    "3.NLP算法/3.扩展内容/3. 前馈神经网络优化/1. 前馈神经网络后续优化方案.md",
-    "3.NLP算法/3.扩展内容/4. 残差连接优化/1. 残差连接优化方案.md",
-    "5. 大模型/1. 大模型简介.md",
-    "5. 大模型",
-    "扩展资料/Latex常用语法总结（查找手册）.md",
-    "2.深度学习/3.补充内容/10.正则化方式扩展.md",
-    "2.深度学习/1.深度学习/2.神经网络基础/8.梯度下降的优化方法.md",
-    "3.NLP算法/5.项目调整/1.1 调整后.md",
-    "1.机器学习阶段内容/1.机器学习/6. 集成学习/2.并行式集成学习.md",
-    "3.NLP算法/1.知识点/4.模型压缩/4. 知识蒸馏（Knowledge Distillation）.md",
-    "3.NLP算法/3.扩展内容/1.基础扩展/12. deepseek模型.md",
-    "2.深度学习/1.深度学习/2.神经网络基础/10.正则化.md",
-    "3.NLP算法/3.扩展内容/1.基础扩展/11. 大模型.md",
-    "3.NLP算法/2.面试题/NLP基础面试题.md",
-    "2.深度学习/1.深度学习/2.神经网络基础/3.参数初始化.md",
-    "3.NLP算法/3.扩展内容/5. 层归一化优化/1. 层归一化（LayerNorm）优化方案.md",
-    "2.深度学习/1.深度学习/2.神经网络基础/6.网络优化方法.md",
-    "2.深度学习/1.深度学习/2.神经网络基础/5.神经网络的损失函数.md",
-    "1.机器学习阶段内容/3.补充内容/5.朴素贝叶斯.md",
-    "2.深度学习/1.深度学习/2.神经网络基础/9.学习率衰减方法.md",
-    "3.NLP算法/5.项目调整/1. 项目简介.md",
-    "2.深度学习/1.深度学习/2.神经网络基础/7.反向传播.md",
-    "2.深度学习/1.深度学习/2.神经网络基础/4.神经网络构建.md",
     "2.深度学习/1.深度学习/2.神经网络基础/2.激活函数分类.md",
+    "5. 大模型/2. 面试题目/202603028.md",
+    "扩展资料/Latex常用语法总结（查找手册）.md",
+    "5. 大模型/1. 知识点/2. 语言大模型评分标准.md",
+    "linux 需要安装的包.md",
+    "3.NLP算法/1.知识点/3.transformer/6. Bert模型.md",
+    "5. 大模型/1. 知识点/1. 大模型简介.md",
     "png/Pasted image 20260326015743.png",
+    "png/Pasted image 20260328180028.png",
+    "png/Pasted image 20260328180002.png",
+    "png/Pasted image 20260328180005.png",
+    "3.NLP算法/1.知识点/4.模型压缩/4. 知识蒸馏（Knowledge Distillation）.md",
+    "3.NLP算法/5.项目调整/1. 项目简介.md",
+    "3.NLP算法/5.项目调整/1.1 调整后.md",
+    "算法/递归函数.md",
+    "2.深度学习/3.补充内容/4.深度学习模型判断.md",
+    "2.深度学习/3.补充内容/3.深度学习模型类型介绍.md",
+    "3.NLP算法/1.知识点/4.模型压缩/1. 模型压缩介绍.md",
+    "4.强化学习/3.扩展资料/2. 马尔可夫链.md",
+    "4.强化学习/1.知识点/3. ε‑贪心算法.md",
+    "4.强化学习/1.知识点/2. 探索与利用的平衡.md",
+    "4.强化学习/1.知识点/1.强化学习.md",
+    "2.深度学习/3.补充内容/10.正则化方式扩展.md",
+    "4.强化学习/3.扩展资料/1.马尔可夫.md",
+    "5. 大模型/2. 面试题目",
+    "5. 大模型/1. 知识点",
+    "3.NLP算法/1.知识点/3.transformer/4. 预训练 Pre-training.md",
+    "3.NLP算法/1.知识点/4.模型压缩/2. 模型减枝（Pruning）.md",
+    "3.NLP算法/1.知识点/3.transformer/5. 微调 Fine-tuning.md",
+    "3.NLP算法/1.知识点/3.transformer/3.2 输入部分-Transformer.md",
+    "3.NLP算法/1.知识点/3.transformer/3.3  编码器-Transformer.md",
+    "3.NLP算法/3.扩展内容/2.多头注意力优化/3. GQA 分组查询注意力.md",
+    "5. 大模型",
     "png/Pasted image 20260326014728.png",
     "png/Pasted image 20260326004858.png",
     "png/Pasted image 20260326004547.png",
     "png/Pasted image 20260326004526.png",
     "png/Pasted image 20260325234337.png",
     "png/Pasted image 20260326004522.png",
-    "png/Pasted image 20260326003338.png",
     "3.NLP算法/1.知识点/4.模型压缩",
     "3.NLP算法/3.扩展内容/未命名",
     "3.NLP算法/1.知识点/3.transformer",
     "4.强化学习/3.扩展资料",
     "4.强化学习/1.知识点",
     "4.强化学习",
-    "png/Pasted image 20260208174556.png",
-    "png/Pasted image 20260208174721.png",
     "3.NLP算法/5.项目调整",
-    "3.NLP算法/3.扩展内容/5. 层归一化优化",
-    "3.NLP算法/3.扩展内容/4. 残差连接优化",
     "2.深度学习/3.补充内容/未命名.canvas"
   ]
 }
