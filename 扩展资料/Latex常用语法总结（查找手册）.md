@@ -78,17 +78,21 @@ $$
 | $\ddot{a}$             | `$\ddot{a}$`             | 字母加两点（二阶导数）             |
 | $\overleftarrow{h_t}$  | `$\overleftarrow{h_t}$`  | 字母加向左箭头                 |
 | $\overrightarrow{h_t}$ | `$\overrightarrow{h_t}$` | 字母加向右箭头                 |
+| $\rightarrow$          | `$\rightarrow$`          |                         |
+| $\leftarrow$           | `$\leftarrow$`           |                         |
+
 ## 常用特殊符号（易混淆 / 高频）
-| 显示效果 | LaTeX 代码      | 说明        |
-| ---- | ------------- | --------- |
-| ∞    | `$\infty$`    | 无穷大       |
-| ∇    | `$\nabla$`    | nabla（梯度） |
-| ∂    | `$\partial$`  | 偏导数符号     |
-| ∅    | `$\emptyset$` | 空集        |
-| ∀    | `$\forall$`   | 全称量词      |
-| ∃    | `$\exists$`   | 存在量词      |
-| =   | `$\neq$`      | 不等于       |
-| ≤    | `$\leq$`      | 小于等于      |
-| ≥    | `$\geq$`      | 大于等于      |
+| 显示效果    | LaTeX 代码      | 说明        |
+| ------- | ------------- | --------- |
+| ∞       | `$\infty$`    | 无穷大       |
+| ∇       | `$\nabla$`    | nabla（梯度） |
+| ∂       | `$\partial$`  | 偏导数符号     |
+| ∅       | `$\emptyset$` | 空集        |
+| ∀       | `$\forall$`   | 全称量词      |
+| ∃       | `$\exists$`   | 存在量词      |
+| $\neq$  | `$\neq$`      | 不等于       |
+| ≤       | `$\leq$`      | 小于等于      |
+| ≥       | `$\geq$`      | 大于等于      |
+| $\odot$ | `$\odot$`     |           |
 ## 大括号
 $$at​=\begin{cases}argmax​Q(st​,a)\ \ ​&以概率 1−ε\\UniformRandom(A)&以概率 ε\end{cases}$$
