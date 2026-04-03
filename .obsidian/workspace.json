@@ -4,61 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "18d6db0a205c3438",
+        "id": "d9e8e15bc286fee8",
         "type": "tabs",
         "children": [
           {
-            "id": "5d77f3dcb454b686",
+            "id": "d2e89fe40bfe89bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. 大模型/1. 知识点/4. RAG项目.md",
+                "file": "4.强化学习/1.知识点/6. 马尔可夫决策过程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. RAG项目"
-            }
-          },
-          {
-            "id": "f3017ed745d71509",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "扩展资料/Latex常用语法总结（查找手册）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Latex常用语法总结（查找手册）"
-            }
-          },
-          {
-            "id": "e42f94405e83e3a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.深度学习/1.深度学习/2.神经网络基础/8.梯度下降的优化方法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8.梯度下降的优化方法"
-            }
-          },
-          {
-            "id": "de0a429521261b77",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "png/edurag项目整体架构图.png"
-              },
-              "icon": "lucide-image",
-              "title": "edurag项目整体架构图"
+              "title": "6. 马尔可夫决策过程"
             }
           }
         ]
@@ -93,13 +53,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.机器学习阶段内容/1.机器学习/6. 集成学习/2.并行式集成学习.md",
+                "file": "3.NLP算法/1.知识点/3.transformer/1. 注意力机制.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2.并行式集成学习 的大纲"
+              "title": "1. 注意力机制 的大纲"
             }
           },
           {
@@ -108,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "泛化",
+                "query": "gelu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -258,44 +218,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d77f3dcb454b686",
+  "active": "d2e89fe40bfe89bf",
   "lastOpenFiles": [
-    "png/edurag项目整体架构图.png",
+    "2.深度学习/3.补充内容/7.激活函数GELU.md",
+    "4.强化学习/1.知识点/6. 马尔可夫决策过程.md",
+    "2.深度学习/1.深度学习/2.神经网络基础/2.激活函数分类.md",
+    "5. 大模型/1. 知识点/4.5 BM25算法.md",
+    "5. 大模型/1. 知识点/5 Longchain.md",
+    "5. 大模型/2. 面试题目/202603028.md",
+    "5. 大模型/3. 扩展知识/1. 分布式存储.md",
+    "1.机器学习阶段内容/1.机器学习/01机器学习基础/0.机器学习基础目录.md",
+    "3.NLP算法/1.知识点/3.transformer/1. 注意力机制.md",
+    "1.机器学习阶段内容/1.机器学习/02KNN算法/2.距离度量.md",
+    "1.机器学习阶段内容/1.机器学习/02KNN算法/1.KNN算法概述.md",
+    "1.机器学习阶段内容/1.机器学习/7. 聚类算法/0. 聚类算法概览.md",
     "5. 大模型/1. 知识点/4. RAG项目.md",
-    "5. 大模型/1. 知识点/4.2 RAG介绍.md",
-    "5. 大模型/1. 知识点/4.3 BGE-M3 模型.md",
-    "2.深度学习/1.深度学习/2.神经网络基础/8.梯度下降的优化方法.md",
-    "5. 大模型/1. 知识点/3. 提示词工程.md",
     "5. 大模型/1. 知识点/4.4 milvus数据库.md",
-    "扩展资料/Latex常用语法总结（查找手册）.md",
+    "5. 大模型/1. 知识点/4.3 BGE-M3 模型.md",
+    "5. 大模型/1. 知识点/4.2 RAG介绍.md",
+    "5. 大模型/1. 知识点/4.1 REdis缓存.md",
+    "3.NLP算法/3.扩展内容/1.基础扩展/13. 泛化能力.md",
+    "3.NLP算法/3.扩展内容/1.基础扩展/12. deepseek模型.md",
+    "png/Pasted image 20260403140518.png",
+    "3.NLP算法/3.扩展内容/1.基础扩展/1. 子词切分.md",
+    "3.NLP算法/2.面试题/NLP基础面试题.md",
+    "2.深度学习/1.深度学习/2.神经网络基础/1.神经网络基础.md",
+    "3.NLP算法/1.知识点/3.transformer/1.1 注意力机制流程图.md",
+    "3.NLP算法/3.扩展内容/2.多头注意力优化/1. 多头注意力后续优化路线.md",
+    "5. 大模型/3. 扩展知识",
+    "5. 大模型/1. 知识点/3. 提示词工程.md",
+    "png/edurag项目整体架构图.png",
+    "2.深度学习/1.深度学习/2.神经网络基础/8.梯度下降的优化方法.md",
     "png/Pasted image 20260402213239.png",
     "png/Pasted image 20260402210128.png",
     "png/Pasted image 20260402205738.png",
-    "5. 大模型/1. 知识点/4.1REdis缓存.md",
     "png/Pasted image 20260402200448.png",
-    "3.NLP算法/5.项目调整/1. 项目简介.md",
-    "3.NLP算法/5.项目调整/1.1 调整后.md",
-    "3.NLP算法/3.扩展内容/2.多头注意力优化/3. GQA 分组查询注意力.md",
-    "3.NLP算法/3.扩展内容/1.基础扩展/13.泛化能力.md",
     "png/Pasted image 20251224205846.png",
     "png/Pasted image 20251224111557.png",
     "png/Pasted image 20251224094836.png",
     "png/c815a6f7e0b6db3e4cd877893ec3b990.png",
-    "5. 大模型/1. 知识点/2. 语言大模型评分标准.md",
-    "linux 需要安装的包.md",
-    "5. 大模型/2. 面试题目/202603028.md",
-    "1.机器学习阶段内容/1.机器学习/6. 集成学习/3.串行式集成学习.md",
-    "5. 大模型/1. 知识点/1. 大模型简介.md",
-    "2.深度学习/1.深度学习/2.神经网络基础/7.反向传播.md",
-    "2.深度学习/1.深度学习/2.神经网络基础/6.网络优化方法.md",
-    "2.深度学习/1.深度学习/2.神经网络基础/5.神经网络的损失函数.md",
-    "Excalidraw/Drawing 2026-02-27 09.54.45.excalidraw.md",
-    "3.NLP算法/3.扩展内容/6 .优化器优化方案/6.1 优化器优化方案.md",
-    "3.NLP算法/3.扩展内容/6 .优化器优化方案/6.2.2 Lion-基础优化器方向.md",
-    "3.NLP算法/3.扩展内容/6 .优化器优化方案/6.2.1 Adafactor-基础优化器.md",
-    "2.深度学习/3.补充内容/6.前向传播和反向传播.md",
     "3.NLP算法/3.扩展内容/6 .优化器优化方案",
-    "png/Pasted image 20260326015743.png",
     "5. 大模型/2. 面试题目",
     "5. 大模型/1. 知识点",
     "5. 大模型",
@@ -304,7 +266,6 @@
     "4.强化学习/3.扩展资料",
     "4.强化学习/1.知识点",
     "4.强化学习",
-    "3.NLP算法/5.项目调整",
     "2.深度学习/3.补充内容/未命名.canvas"
   ]
 }
